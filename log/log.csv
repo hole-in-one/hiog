@@ -1,0 +1,474 @@
+ip,time,action,type,session,visitor192.168.2.104,"25-02-2012 14:15:08","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+192.168.2.104,"25-02-2012 16:47:42","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"10-12-2012 22:06:19","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 22:06:19","MOBI->QUERY : failed with exceptionNo database selected",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 22:12:31","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 22:12:31","MOBI->QUERY : failed with exceptionNo database selected",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 22:13:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 22:23:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 23:14:10","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"10-12-2012 23:14:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 23:20:04","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 23:42:30","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 23:42:33","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"10-12-2012 23:45:33","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:01:22","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:05:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:06:35","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:08:12","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:09:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:16:21","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:16:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:17:25","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:17:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:18:36","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:20:47","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:20:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:20:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:22:06","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:22:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:22:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:22:18","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:22:19","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:23:22","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:24:19","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:27:37","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC content_rank LIMIT 20' at line 2",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:27:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+93.186.16.211,"11-12-2012 00:28:53","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.16.211,"11-12-2012 00:28:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,fk8k68um9bv9op35nk4s69qdt5,unknown
+41.185.79.34,"11-12-2012 00:30:58","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC content_rank LIMIT 20' at line 2",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.185.79.34,"11-12-2012 00:31:04","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,km5oauqvns445bn3l9jr91slc2,unknown
+41.160.63.132,"11-12-2012 09:17:28","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 09:17:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:18:29","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 10:18:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:20:20","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:20:25","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:20:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:20:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:20:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 10:23:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:00:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:01:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:12:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:13:56","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:14:56","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:17:07","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 11:17:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:12","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.160.63.132,"11-12-2012 11:17:19","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,umbkkoa157ei7fse6gqg0mgkp7,unknown
+41.133.65.176,"11-12-2012 11:30:29","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.133.65.176,"11-12-2012 11:30:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,gb5gb7815ipiq9fj5no8d1n2m7,unknown
+41.160.63.132,"11-12-2012 11:30:39","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:30:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:30:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:30:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:30:45","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.133.65.176,"11-12-2012 11:30:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,gb5gb7815ipiq9fj5no8d1n2m7,unknown
+41.133.65.176,"11-12-2012 11:31:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,gb5gb7815ipiq9fj5no8d1n2m7,unknown
+41.160.63.132,"11-12-2012 11:32:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:32:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:32:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:34:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:34:13","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:34:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:34:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:34:39","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:38:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:38:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:05","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:06","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:08","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:12","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:43","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:45","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:46","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:54","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 11:39:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 12:05:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 12:05:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 12:06:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 12:06:31","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:12:38","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 13:12:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:12:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:12:39","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:12:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:18:39","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:18:56","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:19:23","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:19:25","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:19:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:22:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:22:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:23:59","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:25:50","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:27:01","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:30:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:31:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:35:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:36:32","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:53:19","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 13:53:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:03:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:03:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:04:04","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:04:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:04:13","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:04:58","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:04:59","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:05:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:05:36","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:05:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:12","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:13","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:07:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:09:06","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:15:02","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:35:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 14:49:19","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 15:05:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:19:30","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:19:52","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:23:08","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 15:29:21","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:29:34","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:29:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 15:29:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:11:19","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 16:12:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:12:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:12:20","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:46:57","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"11-12-2012 16:47:00","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:47:01","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.160.63.132,"11-12-2012 16:47:08","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3l0trkhhrh7a3c26r9npvjnsg0,unknown
+41.185.79.34,"11-12-2012 18:53:44","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"11-12-2012 18:53:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 18:54:22","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 18:54:36","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 18:54:43","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 18:58:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:02:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:03:35","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:06:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:11:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:12:45","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+93.186.16.246,"11-12-2012 19:14:38","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.16.246,"11-12-2012 19:14:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,05m3c58fkvdfcr2j5fdb47o7v6,unknown
+41.185.79.34,"11-12-2012 19:16:30","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:16:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:28:22","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:37:20","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:44:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:45:34","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 19:47:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:08:18","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:28:06","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:29:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:30:35","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:34:03","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:34:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:34:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:34:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:34:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:36:38","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:38:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:39:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:39:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:39:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:41:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:42:33","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:42:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:44:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:45:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:49:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:50:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:51:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:51:29","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:51:52","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:53:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:53:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:53:56","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:54:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:55:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:55:20","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:57:24","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:59:08","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:59:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:59:21","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 20:59:32","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:00:41","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:06:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:10:25","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:10:49","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:11:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:11:18","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:12:09","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:12:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:13:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:13:35","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:14:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:14:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:15:02","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:15:34","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:15:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:19:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:20:22","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:23:32","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:24:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:26:21","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:27:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:29:05","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"11-12-2012 21:29:05","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,jmsv7ppaiordf0t72jkur8tof7,unknown
+41.185.79.34,"11-12-2012 21:30:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:30:47","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:31:41","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:32:59","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:38:21","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:38:51","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:39:13","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:40:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:42:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:42:49","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:43:05","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:48:53","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:05","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:15","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:18","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:49:24","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:53:12","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 21:53:18","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:13:07","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+105.245.39.252,"11-12-2012 22:14:04","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.245.39.252,"11-12-2012 22:14:04","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,1bau412b7s1p3fhboqdpu7qmj3,unknown
+41.185.79.34,"11-12-2012 22:15:31","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:16:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:16:50","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:17:37","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:24:32","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:47:02","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:50:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:51:16","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:55:52","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 22:59:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.185.79.34,"11-12-2012 23:00:11","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,3jbkavusf642qgqku40gj2fnt2,unknown
+41.160.63.132,"12-12-2012 09:12:02","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 09:12:02","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 09:12:52","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.135.110.130,"12-12-2012 09:18:03","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 09:23:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 09:23:54","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 09:23:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 09:23:59","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 09:24:48","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 11:08:05","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 11:08:10","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+41.160.63.132,"12-12-2012 11:08:14","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 11:08:14","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,6c3fr1ut3d7n3d14lbton1n0b1,unknown
+41.160.63.132,"12-12-2012 11:09:34","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,2b8r18i3rtlmib390i3lvk2tv3,unknown
+105.245.39.252,"12-12-2012 14:54:23","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 16:33:28","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 16:33:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,32m8qgbu4atugr2i3mbvf8pdg7,unknown
+41.160.63.132,"12-12-2012 16:33:36","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"12-12-2012 16:33:37","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,aa9b43urbfko1btr6cho7k4680,unknown
+41.160.63.132,"12-12-2012 16:36:32","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"12-12-2012 20:01:54","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"12-12-2012 20:01:54","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 20:04:43","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 20:35:50","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.133.65.34,"12-12-2012 20:41:48","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"12-12-2012 20:52:01","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.133.65.34,"12-12-2012 21:09:16","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"12-12-2012 21:30:43","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:15:59","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"12-12-2012 22:15:59","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:22:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:25:01","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:28:13","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:29:27","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:29:50","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:28","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:35","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:41","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:49","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:56","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:33:57","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:34:17","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:34:36","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:34:47","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:42:47","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:42:55","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 22:43:26","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 23:06:49","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 23:12:24","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 23:16:44","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 23:16:49","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"12-12-2012 23:21:42","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 00:27:26","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.185.79.34,"13-12-2012 00:56:40","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 00:57:05","MOBI->QUERY : failed with exceptionTable 'hioc.cached_home_page' doesn't exist",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:02:33","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:04:34","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:06:01","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:07:02","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:07:47","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:08:49","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:08:49","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:10:01","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:11:17","MOBI->QUERY : failed with exception",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.185.79.34,"13-12-2012 01:19:39","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,7kdurq6p6or8s26curq1ur3ag4,unknown
+41.133.65.34,"13-12-2012 10:51:25","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"13-12-2012 14:44:34","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"21-12-2012 11:58:34","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"21-12-2012 13:55:22","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.250.204.187,"26-12-2012 15:32:37","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.250.204.187,"26-12-2012 17:05:40","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.250.204.187,"26-12-2012 17:06:42","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+105.250.204.187,"26-12-2012 17:07:50","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+105.250.204.187,"26-12-2012 17:19:18","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+105.250.204.187,"26-12-2012 17:21:05","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+105.250.204.187,"26-12-2012 17:23:10","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+105.250.204.187,"26-12-2012 17:24:09","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,jlommni065rocjapnbk3s42jd2,unknown
+197.78.0.61,"01-01-2013 19:43:16","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+197.78.0.61,"01-01-2013 19:43:29","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+197.78.0.61,"01-01-2013 19:43:55","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,khag1o20eqirs3ge5ngpk0maj2,unknown
+197.78.0.61,"01-01-2013 20:00:36","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,khag1o20eqirs3ge5ngpk0maj2,unknown
+197.78.0.61,"01-01-2013 20:17:06","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,khag1o20eqirs3ge5ngpk0maj2,unknown
+197.78.0.61,"01-01-2013 20:18:24","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,khag1o20eqirs3ge5ngpk0maj2,unknown
+197.78.0.61,"01-01-2013 20:24:34","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,khag1o20eqirs3ge5ngpk0maj2,unknown
+41.160.63.132,"02-01-2013 10:24:27","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"02-01-2013 10:24:32","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 10:34:39","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 10:35:36","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 10:39:06","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 10:39:39","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 10:42:25","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,us3a3s0bs9k6ognaa1hpptb311,unknown
+41.160.63.132,"02-01-2013 11:19:32","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"02-01-2013 11:19:44","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,6mec1k3iagulm39c6con399n60,unknown
+41.160.63.132,"02-01-2013 11:20:11","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,6mec1k3iagulm39c6con399n60,unknown
+41.160.63.132,"02-01-2013 11:21:14","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,6mec1k3iagulm39c6con399n60,unknown
+41.160.63.132,"02-01-2013 13:49:44","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"02-01-2013 13:49:48","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 13:50:35","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 13:58:35","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:05:28","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:05:44","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:05:48","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:07:10","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:07:14","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:13:41","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"02-01-2013 14:15:35","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1",1,41k0l1ug4pen8fuj84qkbk4h00,unknown
+41.160.63.132,"03-01-2013 11:30:27","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"03-01-2013 13:33:19","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"03-01-2013 13:34:14","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"""", """", """", """", """", """", 1357212854,' at line 2",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:34:49","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""Mr Graeme Abbott"", ""Langebaan Golf & Sports Club"", ""renduples@gmail.com"", """", ""' at line 2",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:41:16","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""Mr Graeme Abbott"", ""Langebaan Golf & Sports Club"", ""renduples@gmail.com"", ""0791' at line 2",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:42:37","MOBI->QUERY : failed with exceptionYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""Mr Graeme Abbott"", ""Langebaan Golf & Sports Club"", ""renduples@gmail.com"", ""0791' at line 2",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:44:43","MOBI->QUERY : failed with exception",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:50:26","MOBI->QUERY : failed with exception",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:56:11","MOBI->QUERY : failed with exceptionDuplicate entry '0791854645' for key 'msisdn'",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 13:56:49","MOBI->QUERY : failed with exceptionDuplicate entry '0791854645' for key 'msisdn'",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 14:11:07","MOBI->QUERY : failed with exceptionDuplicate entry '0791854645' for key 'msisdn'",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.160.63.132,"03-01-2013 14:12:11","MOBI->QUERY : failed with exceptionDuplicate entry '0791854645' for key 'msisdn'",1,0eloc03a1pa5ec37m86kuih371,unknown
+41.135.88.196,"08-01-2013 07:37:56","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+197.104.117.151,"10-01-2013 08:21:13","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"14-01-2013 11:27:38","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"25-01-2013 11:28:02","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.13.8.19,"25-01-2013 14:27:16","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"25-01-2013 16:05:30","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+38.100.21.120,"25-01-2013 20:40:37","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.13.8.19,"26-01-2013 03:25:24","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.6.220.149,"26-01-2013 08:41:00","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+41.13.8.19,"26-01-2013 08:47:27","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+204.68.97.132,"26-01-2013 17:19:35","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.13.8.19,"26-01-2013 20:11:42","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.6.220.149,"27-01-2013 00:27:41","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+208.80.194.140,"27-01-2013 11:54:25","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+199.30.228.159,"27-01-2013 12:06:54","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.13.8.19,"28-01-2013 00:41:30","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+50.56.217.81,"28-01-2013 00:41:59","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+46.236.24.54,"28-01-2013 00:44:05","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"28-01-2013 16:29:58","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"29-01-2013 10:30:31","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"29-01-2013 11:41:13","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 12:06:37","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 12:08:07","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 12:09:23","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 12:10:00","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 12:11:09","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.1.32.203,"29-01-2013 12:41:53","VISITOR->CREATE_SESSION atlas : E71",1,unknown,unknown
+105.241.237.153,"29-01-2013 12:44:56","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+46.236.24.52,"29-01-2013 13:21:12","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.120.83.62,"29-01-2013 13:21:13","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.120.83.62,"29-01-2013 14:12:24","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.46,"29-01-2013 15:59:27","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.23.86,"30-01-2013 13:26:39","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+197.87.169.85,"30-01-2013 13:42:15","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.16.212,"30-01-2013 13:44:38","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"30-01-2013 17:13:05","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"30-01-2013 19:05:13","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.83,"30-01-2013 19:08:29","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.83,"30-01-2013 19:52:23","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.19.64.132,"31-01-2013 08:21:19","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.195,"31-01-2013 09:07:18","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.195,"31-01-2013 09:14:32","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.195,"31-01-2013 09:15:06","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"31-01-2013 10:03:16","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"31-01-2013 10:24:07","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"31-01-2013 10:54:57","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.135.116.195,"31-01-2013 10:55:42","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.13.48.177,"01-02-2013 02:56:25","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.3.139.67,"01-02-2013 11:01:29","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.4.120.51,"01-02-2013 11:48:48","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+41.4.120.51,"01-02-2013 11:50:53","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+93.186.16.246,"04-02-2013 10:31:00","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.160.63.132,"05-02-2013 09:58:07","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+74.118.194.81,"05-02-2013 17:08:34","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+74.118.194.81,"05-02-2013 17:08:34","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+74.118.194.81,"05-02-2013 17:09:14","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.2.95.246,"06-02-2013 11:45:19","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+41.2.95.246,"06-02-2013 12:55:23","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+41.5.19.202,"07-02-2013 10:22:46","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+208.80.194.149,"11-02-2013 13:54:38","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.150,"11-02-2013 13:55:50","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.145,"11-02-2013 13:57:35","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.149,"11-02-2013 13:58:12","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.150,"11-02-2013 13:58:46","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.150,"11-02-2013 13:59:17","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.149,"11-02-2013 14:00:03","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.140,"11-02-2013 14:02:20","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.140,"11-02-2013 14:05:58","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.149,"11-02-2013 14:12:21","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.150,"11-02-2013 14:25:24","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.149,"11-02-2013 14:28:42","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+208.80.194.149,"11-02-2013 14:41:19","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.227.59.101,"12-02-2013 12:08:32","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.23.83,"13-02-2013 08:00:47","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"18-02-2013 12:35:17","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+74.118.194.81,"18-02-2013 15:35:08","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.226.16.51,"18-02-2013 23:16:46","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"19-02-2013 13:16:56","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+131.253.24.32,"19-02-2013 21:12:51","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.23.81,"20-02-2013 16:28:25","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"21-02-2013 08:59:37","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+41.134.6.89,"21-02-2013 15:07:42","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+93.186.23.82,"23-02-2013 05:17:08","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+64.202.161.44,"24-02-2013 15:18:01","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+64.202.161.41,"24-02-2013 15:18:17","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+105.243.234.77,"25-02-2013 09:09:10","VISITOR->CREATE_SESSION atlas : iPad",1,unknown,unknown
+93.186.23.98,"06-03-2013 17:30:12","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+54.242.181.50,"07-03-2013 09:45:34","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown
+159.253.221.133,"09-03-2013 08:37:35","VISITOR->CREATE_SESSION atlas : Unknown ",1,unknown,unknown

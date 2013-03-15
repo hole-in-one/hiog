@@ -1,0 +1,11 @@
+	<div id="menu" ><?php echo $navigate ?></div> 
+	<div id="content"> 
+			<div class='heading'>Advert</div> 
+			<?php echo $dartAdTop; ?>
+			<br /> 
+			<form action="index.php?view=result" method="post"> 
+					<input type="text" name="keys"/> <input type="submit" value="Search"/> 
+			</form> 
+			<?php echo $article; ?>
+	</div> 
+<?php require_once('views/footer.html'); ?>

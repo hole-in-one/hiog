@@ -1,0 +1,24 @@
+<div id="formWrapper" >
+			<div id="title" ></div>
+			<div id="formDiv" >
+          <div class="home-body">
+              <div class="output">
+								<div><?php echo $output ?></div>
+              </div>
+          </div>
+						<form id="chooseForm" action="index.php?view=register" method="post" >
+						<div>
+								<hr />
+             				<div class="form-labels">Use your SAGA number if you have one</div>
+             				<div class="form-labels">or leave blank if you don't</div>
+             				<div class="form-labels">&#160;</div>
+										<div class="form-labels"><input type="text" name="saganumber" size="15" maxlength="10" />SAGA Number</div>
+										<div>&nbsp;</div>
+										<div class="form-labels"><input type="submit" name="saga" value="Register" ></div>
+								<hr />
+						</div>
+					</form>
+				</div>
+      </div>
+</div>
+<?php require_once('views/footer.html'); ?>

@@ -1,0 +1,11 @@
+	<div class="copyright">
+		<?php 
+		if ( isset($_REQUEST['view']) )
+		{
+			$referer = (isset($_SERVER['HTTP_REFERER'])) ? $_SERVER['HTTP_REFERER'] : 'index.php'; 
+			echo '<a href="' . $referer . '">Back</a> | <a href="index.php">Home</a> | '; 
+		}?>
+		<a href="index.php?view=affiliated">Register</a> | <a href="index.php?view=about">Contact Us</a>
+	</div>
+</body>
+</html> 

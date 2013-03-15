@@ -1,0 +1,37 @@
+<div id="formWrapper" >
+			<div id="title" ></div>
+			<div id="formDiv" >
+
+          <div class="home-body">
+              <div class="output">
+								<p>Prizemoney Cashbook</p>
+              </div>
+              <div>&nbsp;</div>
+		          <div class="data">
+		              <table border=1>
+		              	<tr>
+		                  <th class="form-labels">Strokes</th>
+		                  <th class="form-labels">Date</th>
+		                  <th class="form-labels">Description</th>
+		                  <th class="form-labels">Dt/Cr</th>
+		                  <th class="form-labels">Amount</th>
+		                  <th class="form-labels">Accum Total</th>
+		                  <th class="form-labels">Edit</th>
+		                </tr>
+		                <tr>
+										<form id="trans" action="index.php?view=transsave" method="post" >
+		                	<td><input type="text" name="strokes" size="2" maxlength="1" value="1" /></td>
+		                	<td><input type="text" name="date" size="15" maxlength="10" value="<?php echo date("d-m-Y"); ?>" /></td>
+		                	<td><input type="text" name="description" size="35" maxlength="30" value="Description" /></td>
+		                	<td><input type="text" name="debit" size="5" maxlength="5" value="Dt" /></td>
+		                	<td><input type="text" name="amount" size="9" maxlength="8" value="0"/></td>
+		                	<td>&nbsp;</td>
+											<td><input type="submit" name="save" value="Add" ></input></td>
+										</form>
+										</tr>
+										<?php echo $output; ?>
+		              </table>
+		          </div>
+      </div>
+</div>
+<?php require_once('../views/adminfooter.html'); ?>

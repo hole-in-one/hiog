@@ -1,0 +1,35 @@
+<div id="formWrapper" >
+			<div id="title" ></div>
+			<div id="formDiv" >
+          <div class="home-body">
+              <div class="output">
+								<p>Join the National Tournament for a Week for only R75-00</p>
+								<p>and qualify for the progressive prizemoney for a period of seven days!</p>
+              </div>
+          </div>
+						<form id="joinForm" action="index.php?view=payment&voucher=week" method="post" >
+						<div>
+								<div id="output"><?php echo $output ?></div>
+								<hr />
+             				<div>&#160;</div>
+										<div class="form-labels"><input type="text" name="tel" size="15" maxlength="10" />Cellphone Number</div>
+										<div>&#160;</div>
+										<div class="form-labels"><input type="text" name="email" size="30" maxlength="25" />Email Address</div>
+										<div>&#160;</div>
+										<div class="form-labels"><input type="text" name="name" size="30" maxlength="25" />Account Holder</div>
+										<div>&#160;</div>
+										<div class="form-labels"><input type="text" name="account" size="20" maxlength="15" />Credit Card Number</div>
+										<div>&#160;</div>
+										<div class="form-labels"><input type="text" name="account" size="10" maxlength="5" />Last 4 digits</div>
+										<div>&#160;</div>
+										<div><input type="submit" name="payment" value="Make Payment" ></input></div>
+								<hr />
+						</div>
+					</form>
+				</div>
+
+
+
+      </div>
+</div>
+<?php require_once('views/footer.html'); ?>

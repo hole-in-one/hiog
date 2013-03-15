@@ -1,0 +1,555 @@
+a:link {color:#0000CC;}    /* unvisited link */
+a:visited {color:#0000CC;} /* visited link */
+a:hover {color:#FFFFFF;}  	/* mouse over link */
+a:active {color:#0000CC;}  /* selected link */
+
+html {
+	margin: 0; 
+	padding: 0;
+	height: 100%;
+	background-color:#7bc700;
+	background-size: 100% auto;
+	background-image: url("../images/golf.svg");
+	background-repeat: no-repeat;
+}
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	height: 100%;
+}
+
+table {
+	background-color: #7bc700;
+}
+
+hr {
+  	color: #ffffff;
+	background-color: #ffffff;
+	height: 2px;
+}
+
+footer {
+  margin: 3% auto;
+  width: 100%;
+}
+
+input[type="text"] { 
+	/* webkit-border-radius: 5px; */
+	/* moz-border-radius: 5px;  */
+	border-radius: 5px; 
+	
+}
+
+input[type="password"] { 
+	-webkit-border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	border-radius: 5px; 
+}
+
+input[type="submit"] {
+	padding:6px 24px;
+	
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#ffffff;
+	
+	background-color: #00529c; 
+	
+	/* moz-border-radius:18px; */
+	/* webkit-border-radius:6px; */
+	border-radius:18px;
+	
+	/* moz-box-shadow: 2px 2px 3px #000; */
+	/* webkit-box-shadow: 2px 2px 3px #000; */
+	box-shadow: 2px 2px 3px #000;
+	/* ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000')"; */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+}
+
+input[type="submit"]:hover {
+	color: #00529c;
+	background-color: #fff;
+	cursor:pointer;
+}
+
+input[type="submit"]:active {
+	position:relative;
+	top:1px;
+}
+
+#formWrapper {
+	/* height: 100%; */
+}
+
+#title{}
+
+#output {
+	text-align: left;
+	color: #00529c;
+ 	font-family: Verdana,Geneva,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.output {
+	text-align: left;
+	display: block;
+	padding: 0.5em 1em 0.5em 1em;
+	color: #fff;
+	text-decoration: none;
+	background: #00529c;
+	
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+
+	/* moz-border-radius-topright:18px; */
+	/* moz-border-radius-bottomright:18px; */
+	border-top-right-radius:18px;
+	border-bottom-right-radius:18px;
+	border-top-left-radius:18px;
+	border-bottom-left-radius:18px;	
+	
+	/* moz-box-shadow: 2px 2px 3px #000; */
+	/* webkit-box-shadow: 2px 2px 3px #000; */
+	box-shadow: 2px 2px 3px #000;
+	/* ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000')"; */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+	
+	
+	
+	
+}
+
+#formDiv {
+	padding: 5px; 
+	overflow: auto; 
+	/* height: 100%; */
+	margin-left: auto;
+  margin-right: auto;
+  /* We need this to be relative so the button icons also move */
+  position: relative;
+  top: 0px;
+  right: 0px;
+}
+
+.form-labels {
+	color: blue;
+  font-family: Verdana,Geneva,sans-serif;
+  font-size: 12px;
+	font-weight:bold;	
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.submitDiv {
+	margin-top: 10px; 
+	text-align: center;
+}
+
+.data {
+	font-family:Arial; 
+	font-size: 14px; 
+	color: white;
+}
+
+.token {
+	font-family:Arial; 
+	font-size: 10px; 
+	color: black;
+}
+
+.pin {
+	font-family:Arial; 
+	font-size: 12px; 
+	color: blue;
+}
+
+.header {
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color: #ffffff;
+	margin-bottom:10px;
+}
+
+.sub_header {
+	font-family:Arial; 
+	font-size: 16px; 
+	font-weight:bold;
+	color: #ffffff;
+}
+
+.desktop_header {
+	font-size: large; 
+	color: white;
+	text-align: center; 
+}
+
+.logo_holder {
+	height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+}
+.logo {
+	background: url("../images/logo-golf.png") no-repeat scroll 0 0 transparent;
+  margin-top: 8px;
+  margin-left: 8px;
+  width: 332px;
+  height: 80px;
+}
+.title {
+	height: 45px;
+	margin-left:100px; 
+	margin-right:100px; 
+}
+.title_image {
+	width:218px;
+	height: 24px;
+	background:url(../images/title.jpg); 
+	background-repeat: no-repeat;
+	position: absolute; 
+	margin-left: 12px; 
+	margin-top: 10px;
+}
+.home-body{
+	
+}
+
+.plain_text_data{
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 14px; 
+	color: white;
+}
+span{
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 14px; 
+	color: #00529c;
+	font-weight:bold;
+}
+/* HOME MENU */
+.home-navbar{      
+	margin-left: 10px;
+	margin-top: 15px;
+	width:300px;
+	float:left;
+}
+.home-navbar ul
+{
+	text-align: left;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	width: 272px;
+}
+.home-navbar ul li
+{
+	display: block;
+	padding: 0;
+	margin-bottom:30px;
+}
+
+.home-navbar ul li a
+{
+	display: block;
+	width: 100%;
+	padding: 0.5em 0 0.5em 3em;
+	color: #fff;
+	text-decoration: none;
+	background: #00529c;
+	
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	
+	/* moz-border-radius-topright:18px; */
+	/* moz-border-radius-bottomright:18px; */
+	border-top-right-radius:18px;
+	border-bottom-right-radius:18px;
+	
+	/* moz-box-shadow: 2px 2px 3px #000; */
+	/* webkit-box-shadow: 2px 2px 3px #000; */
+	box-shadow: 2px 2px 3px #000;
+	/* ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000')"; */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+}
+
+.home-navbar ul li a:hover, .home-navbar ul li .current
+{
+	color: #00529c;
+	background: #fff;
+	border-color: #aaab9c #fff #fff #ccc;
+}
+
+/* TOP MENU */
+.top-navbar-holder{
+	height:50px;
+	margin: 0; 
+}
+.top-navbar{
+	width: 100%;
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#ffffff;
+}
+
+.top-navbar ul{
+	margin: 0; 
+	padding: 0;
+	float: left;
+	
+	background-color: #00529c; 
+	
+	/* moz-border-radius:18px; */
+	/* webkit-border-radius:18px; */
+	border-radius:18px;
+	
+	/* moz-box-shadow: 2px 2px 3px #000; */
+	/* webkit-box-shadow: 2px 2px 3px #000 */;
+	box-shadow: 2px 2px 3px #000;
+	/* ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000')"; */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+}
+
+.top-navbar ul li{
+	display: inline;
+}
+
+.top-navbar ul li a{
+	text-decoration: none;
+	color:#ffffff;
+	float: left; 
+	padding: 10px 20px;
+	/* moz-border-radius:18px; */
+	/* webkit-border-radius:6px; */
+	border-radius:18px;
+}
+
+.top-navbar ul li a:visited
+{
+	
+}
+
+.top-navbar ul li a:hover, .top-navbar ul li .current
+{
+	color: #00529c;
+	background-color: #fff;
+}
+
+/* NO ICON MENU */
+.no-icon-navbar{  
+	margin-top:5px;
+	width:250px;
+	float:left;
+}
+
+.no-icon-navbar ul
+{
+	text-align: left;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	width: 250px;
+}
+
+.no-icon-navbar ul li
+{
+	display: block;
+	padding: 0;
+	margin-bottom:5px;
+}
+
+.no-icon-navbar ul li a
+{
+	display: block;
+	width: 100%;
+	padding: 0.5em 0 0.5em 3em;
+	color: #fff;
+	text-decoration: none;
+	background: #00529c;
+	
+	font-family: Verdana,Geneva,sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	
+	/* moz-border-radius:18px; */
+	/* webkit-border-radius:18px; */
+	border-radius:18px;
+	
+	/* moz-box-shadow: 2px 2px 3px #000; */
+	/* webkit-box-shadow: 2px 2px 3px #000; */
+	box-shadow: 2px 2px 3px #000;
+	/* ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000')"; */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+}
+
+.no-icon-navbar ul li a:hover, .no-icon-navbar ul li .current
+{
+	color: #00529c;
+	background: #fff;
+	border-color: #aaab9c #fff #fff #ccc;
+}
+
+/* ICONS */
+.login-icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/login_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.member-icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/member_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.rica-icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/rica_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.elec-icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/elec_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.trans-icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/trans_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.sell_air_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/sell_air_icon.png); 
+	background-repeat: no-repeat;
+	position: absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.account_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/account_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.support_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/support_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.balance_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/balance_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.statement_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/statement_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.report_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/report_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.recharge_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/recharge_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+.contact_support_icon{
+	width:78px;
+	height: 78px;
+	background:url(../images/contact_support_icon.png); 
+	background-repeat: no-repeat;
+	position:absolute; 
+	z-index:2;
+	margin-left:-35px;
+	margin-top:-20px;
+}
+
+/* FOOTER */
+.copyright{
+	padding-top:5px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+	height: 15px;
+	border:2px solid #4078ae;
+	/* moz-border-radius:10px; */
+	/* webkit-border-radius:10px; */
+	border-radius:10px;
+	z-index: 2;
+	position: absolute;
+    left: 10%;
+}
